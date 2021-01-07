@@ -1,3 +1,3 @@
 # OrderBook
 
-please see Readme.docx
+please follow all instruction given in Readme.docx then start with welcome.py
